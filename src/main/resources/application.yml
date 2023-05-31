@@ -1,0 +1,16 @@
+server:
+  port: 9999
+kafka:
+  consumer:
+    productTopic: products
+    bootstrapAddress: localhost:9092
+
+spring:
+  output:
+    ansi:
+      enabled: ALWAYS
+product:
+  topic:
+    name: products
+
+

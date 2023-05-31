@@ -1,0 +1,10 @@
+${AnsiColor.YELLOW} _______       ___   .___________.    ___           ______   .__   __.    .___________. __  .___  ___.  _______
+${AnsiColor.YELLOW}|       \     /   \  |           |   /   \         /  __  \  |  \ |  |    |           ||  | |   \/   | |   ____|
+${AnsiColor.YELLOW}|  .--.  |   /  ^  \ `---|  |----`  /  ^  \       |  |  |  | |   \|  |    `---|  |----`|  | |  \  /  | |  |__
+${AnsiColor.YELLOW}|  |  |  |  /  /_\  \    |  |      /  /_\  \      |  |  |  | |  . `  |        |  |     |  | |  |\/|  | |   __|
+${AnsiColor.YELLOW}|  '--'  | /  _____  \   |  |     /  _____  \     |  `--'  | |  |\   |        |  |     |  | |  |  |  | |  |____
+${AnsiColor.YELLOW}|_______/ /__/     \__\  |__|    /__/     \__\     \______/  |__| \__|        |__|     |__| |__|  |__| |_______|
+
+${application.title} ${application.version}
+Powered by Spring Boot ${spring-boot.version}
+${AnsiBackground.DEFAULT}${AnsiColor.DEFAULT}
